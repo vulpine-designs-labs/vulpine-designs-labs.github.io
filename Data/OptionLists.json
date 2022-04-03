@@ -1,0 +1,44 @@
+{
+    "list": [
+        {
+            "index": 1,
+            "text": "Home Page",
+            "code": "home"
+        },
+        {
+            "index": 2,
+            "text": "Investors",
+            "code": "investors"
+        },
+        {
+            "index": 3,
+            "text": "Projects",
+            "code": "project"
+        },
+        {
+            "index": 4,
+            "text": "Products",
+            "code": "products"
+        },
+        {
+            "index": 5,
+            "text": "Community",
+            "code": "community"
+        },
+        {
+            "index": 6,
+            "text": "The Team",
+            "code": "team"
+        },
+        {
+            "index": 7,
+            "text": "Plans",
+            "code": "plans"
+        },
+        {
+            "index": 8,
+            "text": "Contact Us",
+            "code": "contact"
+        }
+    ]
+}
